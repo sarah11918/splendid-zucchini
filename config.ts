@@ -31,7 +31,7 @@ const siteMetadata = {
             url: "/blog",
         },
         {
-            name: "PORTFOLIO",
+            name: "CONCERTS",
             url: "/portfolio",
         },
         {
