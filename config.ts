@@ -11,7 +11,8 @@ const siteMetadata = {
     introTag: `PEI'S LONGEST-RUNNING COMMUNITY CHOIR`,
     description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
     about:
-      author: `@_akzhy`,
+      
+    author: `@_akzhy`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
     darkmode: true,
