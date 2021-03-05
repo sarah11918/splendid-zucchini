@@ -9,7 +9,7 @@ const siteMetadata = {
     twoColumnWall: true,
     cookiePolicy: false,
     introTag: `PEI'S LONGEST-RUNNING COMMUNITY CHOIR`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
+    description: `Accepting new members twice a year!`,
     about:
       "An unaditioned, community choir in Summerside, Prince Edward Island",
     author: `@_akzhy`,
