@@ -32,7 +32,7 @@ const siteMetadata = {
         },
         {
             name: "CONCERTS",
-            url: "/portfolio",
+            url: "/concerts",
         },
         {
             name: "CONTACT",
