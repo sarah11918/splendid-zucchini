@@ -9,7 +9,7 @@ const siteMetadata = {
     twoColumnWall: true,
     cookiePolicy: false,
     introTag: `PEI'S LONGEST-RUNNING COMMUNITY CHOIR`,
-    description: `Accepting new members twice a year!`,
+    description: `Accepting new members every January and September!`,
     about:
       "An unaditioned, community choir in Summerside, Prince Edward Island",
     author: `@_akzhy`,
