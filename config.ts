@@ -27,7 +27,7 @@ const siteMetadata = {
             url: "/about",
         },
         {
-            name: "BLOG",
+            name: "NEWS",
             url: "/blog",
         },
         {
