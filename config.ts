@@ -12,7 +12,7 @@ const siteMetadata = {
     description: `Accepting new members every January and September!`,
     about:
       "An unaditioned, community choir in Summerside, Prince Edward Island",
-    author: `@_akzhy`,
+    author: `@sarah11918`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
     darkmode: true,
